@@ -1,0 +1,2 @@
+dataset_dir,mcs_index,mcs_qm,mcs_code_rate_x1024,snr_index,snr_db,noise_sigma,num_codeblocks,llr_len,msg_bits,msg_bytes,base_graph,zc,n_rows,max_iterations,early_termination,effective_cb_code_rate,warmup_repeats,repeats,mean_us_per_cb,stddev_us_per_cb,min_us_per_cb,max_us_per_cb,ber,bler,bit_errors,total_bits,block_errors,total_blocks
+ldpc_final_tesc/mcs_17/snr_02,17,6,438,2,12,0.251188643151,1024,6528,2816,352,1,128,31,5,0,0.43137254902,50,1000,26.2083612288,2.91689775076,24.094732594,36.045518999,0.14252575961,1,410985,2883584,1024,1024
