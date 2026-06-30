@@ -1,8 +1,9 @@
 ## Cloning
 
 ```bash
+apt install git-lfs
 git lfs install
-
+git clone https://github.com/TheDramaturgy/benchmark_ldpc_decoding.git
 ```
 
 
